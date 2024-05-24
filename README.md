@@ -6,6 +6,7 @@ Where i can dump stuff
 Doc: 
 
 - https://github.com/dabeaz-course/python-mastery
+- https://www.sspcloud.fr/formation?search=&path=%5B%22Initiation%20%C3%A0%20Python%22%5D
 
 Tools:
 
