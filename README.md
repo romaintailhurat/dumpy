@@ -3,6 +3,12 @@ Where i can dump stuff
 
 ## Python
 
+Doc: 
+
+- https://github.com/dabeaz-course/python-mastery
+
+Tools:
+
 - poetry vs rye 🔥
 - ruff for style 
 - FastAPI
